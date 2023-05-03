@@ -2,7 +2,7 @@
 <h1 align="left">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px"/>, I'm Vitor Teixeira</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=teixeiravtr&color=blue" alt="Visualizações do Perfil"/></p>
 
-- 🔥 Desenvolvedor Web Junior
+- 🔥 Desenvolvedor Front-End Júnior
 - 🔭 Atualmente procurando vagas para Desenvolvedor Front-end Junior
 - 🎓 Cursando Bacharel em Sistemas de Informação (5º Período)
 - 🌱 Estou sempre aprimorando meu conhecimento
