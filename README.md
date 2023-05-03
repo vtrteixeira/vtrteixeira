@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor Web Junior
 - 🔭 Atualmente procurando vagas para Desenvolvedor Front-end Junior
-- 🎓 Cursando Bacharel em Sistemas de Informação
+- 🎓 Cursando Bacharel em Sistemas de Informação (5º Período)
 - 🌱 Estou sempre aprimorando meu conhecimento
 - ⚡ Curiosidade: Um excelente jogador de futebol
 
