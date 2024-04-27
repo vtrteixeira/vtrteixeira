@@ -3,10 +3,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=teixeiravtr&color=blue" alt="Visualizações do Perfil"/></p>
 
 - 🔥 Desenvolvedor Front-End Júnior
-- 🔭 Atualmente procurando vagas para Desenvolvedor Front-end Junior
-- 🎓 Cursando Bacharel em Sistemas de Informação (6º Período)
+- 🚢 Estagiário na Wilson Sons
+- 🎓 Cursando Bacharel em Sistemas de Informação (7º Período)
 - 🌱 Estou sempre aprimorando meu conhecimento
-- ⚡ Curiosidade: Um excelente jogador de futebol
 
 <br> <br>
 
