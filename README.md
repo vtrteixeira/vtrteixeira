@@ -1,4 +1,3 @@
-<img align="right" height="550em" src="https://raw.githubusercontent.com/gist/vtrteixeira/7583e968390068f2d4d6f562bc989cc7/raw/a1af3f9612fd540b204572f4d77347ca50367d2c/githubcard.svg"/>
 <h1 align="left">Olá, eu sou Vitor Teixeira!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=teixeiravtr&color=blue" alt="Visualizações do Perfil"/></p>
 
